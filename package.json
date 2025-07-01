@@ -1,0 +1,10 @@
+{
+  "name": "syncmaster",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI Audio-Text Synchronization Platform – convenience wrapper for Streamlit dev server",
+"scripts": {
+  "dev": "streamlit run app.py --server.port 5050 --server.address localhost"
+}
+
+} 

@@ -1,0 +1,5 @@
+ffmpeg
+libavcodec-extra
+libavformat-dev
+libavutil-dev
+libmp3lame0

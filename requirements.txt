@@ -1,0 +1,9 @@
+google-genai==1.23.0
+librosa==0.11.0
+moviepy==2.2.1
+mutagen==1.47.0
+numpy==1.26.4
+openai==1.93.0
+streamlit==1.39.0
+altair==5.0.1
+python-dotenv==1.0.1
